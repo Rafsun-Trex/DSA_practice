@@ -1,22 +1,44 @@
 package com.rafsun;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 class Solution {
-    public int[] twoSum(int[] nums, int target) {
+    public int firstMissingPositive(int[] arr) {
 
-        Map<Integer, Integer> m = new HashMap<>();
-
-        for (int i = 0; i < nums.length; i++) {
-            Integer complement = m.get(nums[i]);
-            if(complement != null)
+        int i=0;
+        while(i < arr.length)
+        {
+            int correct = arr[i]-1;
+            if(arr[i] > 0 && arr[i] <= arr.length && arr[i] != arr[correct])
             {
-                return new int[] {i, complement};
+                swap(arr, i, correct);
             }
-            m.put(target - nums[i], i);
-
+            else
+            {
+                i++;
+            }
         }
-        return nums;
+
+
+        for (int j = 0; j < arr.length; j++) {
+            if(arr[j] != j+1)
+            {
+                return j+1;
+            }
+        }
+        return arr.length+1;
+
     }
+
+    static void swap(int[] arr, int first, int second)
+    {
+        int swap = arr[second];
+        arr[second] = arr[first];
+        arr[first] = swap;
+
+    }
+
 }
