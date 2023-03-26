@@ -4,21 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0a222a6-7ead-418d-a917-ef89a89fac1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/ArrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/Codechef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/EnhancedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/MaxinArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/SwapArray.java" afterDir="false" />
+    <list default="true" id="e0a222a6-7ead-418d-a917-ef89a89fac1c" name="Changes" comment="djada">
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/BinarySearchIn2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/BinarySearchIn2dArrayWholeSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/CeilingAndFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/LeetCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/LinearSearchInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/LinearSearchInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/LinearSearchMaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/Mytest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/OrderAgnosticBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/PatternProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/RotateTimeOfSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/RotatedBinarySearchNoDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/RotatedBinarySearchWithDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/Solve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/SplitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/StringWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rafsun/Codechef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rafsun/Codechef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rafsun/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rafsun/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +75,19 @@
       <option name="presentableId" value="Default" />
       <updated>1677247542310</updated>
     </task>
+    <task id="LOCAL-00001" summary="djada">
+      <created>1677604108029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677604108029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="djada" />
+    <option name="LAST_COMMIT_MESSAGE" value="djada" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
