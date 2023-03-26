@@ -1,41 +1,33 @@
 package com.rafsun;
 
-import java.util.Scanner;
+import java.util.*;
 
-class Codechef {
-    public static void main(String[] args) {
+class Codechef
+{
+    public static void main (String[] args)
+    {
+        Scanner read = new Scanner(System.in);
 
-        Scanner in = new Scanner(System.in);
-        int t = in.nextInt();
-        for (int i = 0; i < t; i++) {
+        int t = read.nextInt();
+        for(int i=0; i<t; i++) {
 
-            int n = in.nextInt();
-            String str = in.next();
-            int x=0;
-            char c;
 
-            for (int j = 0; j < str.length(); j++)
-            {
+            int n = read.nextInt();
+            int[] arr = new int[n];
 
-                if(str.charAt(j+1) == '0' && str.charAt(j+2) == '0')
-                {
-                    x = (int) str.charAt(j)-96;
-                    x = x*10 + (int) str.charAt(j+1)-96;
-                }
-                else if(str.charAt(j+2) == '0')
-                {
-                    x = (int) str.charAt(j)-96;
-                    x = x*10 + (int) str.charAt(j+1)-96;
-                }
-                else
-                {
-                    x = (int) str.charAt(j)-96;
-                }
-
-                c = (char) (x+96);
-                System.out.print(c);
+            for (int j = 0; j < n; j++) {
+                arr[j] = read.nextInt();
             }
-            System.out.println();
+            Arrays.sort(arr);
+
+            double ans = 0;
+
+            for (int j = 1; j < n-1; j++) {
+                ans = ans + (double) arr[j];
+            }
+
+            ans = ans/(n-2);
+
 
         }
     }
