@@ -1,32 +1,32 @@
 package com.rafsun;
 
 import java.util.*;
+import java.io.*;
 
 class Codechef
 {
-    public static void main (String[] args)
-    {
+    public static void main(String[] args) {
         Scanner read = new Scanner(System.in);
-
         int t = read.nextInt();
-        for(int i=0; i<t; i++) {
-
+        while (t-- > 0) {
 
             int n = read.nextInt();
-            int[] arr = new int[n];
+            int k = read.nextInt();
+            String s = read.next();
 
-            for (int j = 0; j < n; j++) {
-                arr[j] = read.nextInt();
+            StringBuilder string = new StringBuilder(s);
+
+            if(s.charAt(0) == '0')
+            {
+                string.setCharAt(0, '1');
+                k--;
             }
-            Arrays.sort(arr);
-
-            double ans = 0;
-
-            for (int j = 1; j < n-1; j++) {
-                ans = ans + (double) arr[j];
+            while(k-->0)
+            {
+                string.append('0');
             }
 
-            ans = ans/(n-2);
+            System.out.println(string);
 
 
         }

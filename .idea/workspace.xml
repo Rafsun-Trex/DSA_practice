@@ -4,33 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0a222a6-7ead-418d-a917-ef89a89fac1c" name="Changes" comment="djada">
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/BinarySearchIn2dArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/BinarySearchIn2dArrayWholeSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/CeilingAndFloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/CyclicSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/LeetCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/LinearSearchInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/LinearSearchInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/LinearSearchMaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/Mytest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/OrderAgnosticBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/PalindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/PatternProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/RotateTimeOfSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/RotatedBinarySearchNoDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/RotatedBinarySearchWithDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/Solve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/SplitArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/StringWork.java" afterDir="false" />
+    <list default="true" id="e0a222a6-7ead-418d-a917-ef89a89fac1c" name="Changes" comment="Updated on 26/03/2023">
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/BinaryRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/DigitProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/DigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/EvenOddUsingOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/FibonacciRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/NewtonRaphsonSQRT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/Nto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/RecursionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/RecustionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/SortedArrayRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/UniqueInArrayUsingXOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/rafsun/Codechef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rafsun/Codechef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/rafsun/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rafsun/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/rafsun/PatternProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rafsun/PatternProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -63,6 +54,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/A1QA_Test&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
@@ -82,12 +74,45 @@
       <option name="project" value="LOCAL" />
       <updated>1677604108029</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated on 26/03/2023">
+      <created>1679814260674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679814260674</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated on 26/03/2023">
+      <created>1679814357690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679814357690</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated on 26/03/2023">
+      <created>1679814427357</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679814427357</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="djada" />
-    <option name="LAST_COMMIT_MESSAGE" value="djada" />
+    <MESSAGE value="Updated on 26/03/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated on 26/03/2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
