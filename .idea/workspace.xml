@@ -5,22 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0a222a6-7ead-418d-a917-ef89a89fac1c" name="Changes" comment="Updated on 26/03/2023">
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/BinaryRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/DigitProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/DigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/EvenOddUsingOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/FibonacciRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/NewtonRaphsonSQRT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/Nto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/RecursionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/RecustionArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/SortedArrayRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/UniqueInArrayUsingXOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rafsun/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/Daughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractClass/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/MargeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/SubSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/TestMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rafsun/TriangleRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaoops/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaoops/MainHuman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaoops/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleTon/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleTon/SingleTonClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/rafsun/Codechef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rafsun/Codechef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/rafsun/PatternProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/rafsun/PatternProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="abstractClass" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
